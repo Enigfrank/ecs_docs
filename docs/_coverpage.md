@@ -8,4 +8,4 @@
 - 本文档会随着版本更新而更新
 
 [GitHub](https://github.com/Tripoccca/ecs_docs)
-[Get Started](https://doc.cavendi.top/#/ecs/quickstart)
+[Get Started](#/quickstart)
