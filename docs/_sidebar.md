@@ -1,3 +1,3 @@
-* ECS开始
+* ECS (电子课表)
 
   * [快速入门](/ecs/quickstart.md)
