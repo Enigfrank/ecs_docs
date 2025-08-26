@@ -1,3 +1,5 @@
+![:name](https://count.getloli.com/@:enigfrank_ecs)
+
 # 快速开始
 很长一段时间软件都是从这 [下载](https://domcer.lanzouq.com/b002v9dz3a ) 密码:d9x9
 
