@@ -8,6 +8,6 @@
 - 本文档会随着版本更新而更新
 
 [GitHub](https://github.com/Tripoccca/ecs_docs)
-[Get Started](/ecs/quickstart.md)
+[Start](/ecs/quickstart.md)
 
 ![color](#f0f0f0)
