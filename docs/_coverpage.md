@@ -1,4 +1,4 @@
-![](https://www.loliapi.com/acg/)
+
 
 
 # 帮助文档
@@ -9,3 +9,5 @@
 
 [GitHub](https://github.com/Tripoccca/ecs_docs)
 [Get Started](/ecs/quickstart.md)
+
+![](https://www.loliapi.com/acg/)
