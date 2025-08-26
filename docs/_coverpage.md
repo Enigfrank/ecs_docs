@@ -9,6 +9,3 @@
 
 [GitHub](https://github.com/Tripoccca/ecs_docs)
 [Get Started](#start)
-
-
-![](https://www.loliapi.com/acg/)
