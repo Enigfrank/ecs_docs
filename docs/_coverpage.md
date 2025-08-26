@@ -10,5 +10,4 @@
 [GitHub](https://github.com/Tripoccca/ecs_docs)
 [Get Started](/ecs/quickstart.md)
 
-![](https://www.loliapi.com/acg/)
 ![color](#f0f0f0)
