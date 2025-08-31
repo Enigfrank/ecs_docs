@@ -1,6 +1,8 @@
 ![:name](https://count.getloli.com/@:enigfrank_ecs)
 
 # 快速开始
+自本文档发布之时不再提供技术支持(仅接受issue上报),同时请勿到原版ECS寻求帮助!
+
 很长一段时间软件都是从这 [下载](https://domcer.lanzouq.com/b002v9dz3a ) 密码:d9x9
 
 

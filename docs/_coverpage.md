@@ -7,7 +7,7 @@
 
 - 本文档会随着版本更新而更新
 
-[GitHub](https://github.com/Tripoccca/ecs_docs)
+[GitHub](https://github.com/Tripoccca/FlexibleClassSchedule)
 [Start](/ecs/quickstart.md)
 
 ![color](#f0f0f0)
